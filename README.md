@@ -70,3 +70,8 @@ MyPlayer
 ## Compatibility
 
 This program has been developed with portability and compatibility in mind. It should work across most systems where `gcc` is available for compilation. If you encounter any compatibility issues, please report them to the development team.
+
+## Credits
+Adam Wiszenko
+Antonina Welk
+Ireneusz Szuba
